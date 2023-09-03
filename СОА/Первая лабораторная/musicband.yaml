@@ -1,0 +1,243 @@
+openapi: 3.0.3
+info:
+  title:  MusicBand
+  description: |-
+   Проект для управления музыкальными группами
+  contact:
+    email: anomatver@yandex.ru
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  version: 0.0.1
+paths:
+  /musicband:
+    post:
+      summary: Создать группу.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/MusicBandWithoutID'
+      responses:
+        '200':
+          description: Группа успешно создана.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MusicBand'
+        '400':
+          description: Некорректный ввод.
+
+  /musicband/{id}:
+    get:
+      summary: Получить группу.
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Успешное получение группы.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MusicBand'
+        '404':
+          description: Группа не найдена.
+    put:
+      summary: Обновить группу.
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/MusicBandWithoutID'
+      responses:
+        '200':
+          description: Группа успешно обновлена.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MusicBand'
+        '400':
+          description: Некорректные данные.
+        '404':
+          description: Группа не найдена.
+
+    delete:
+      summary: Удалить группу по айди.
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '204':
+          description: Группа успешно удалена.
+        '404':
+          description: Группа не найдена.
+
+  /musicband/filter/numberOfParticipants:
+    delete:
+      summary: Удалить все объекты с заданным значением numberOfParticipants.
+      parameters:
+        - name: value
+          in: query
+          required: true
+          schema:
+            type: integer
+      responses:
+        '204':
+          description: Объекты удалены.
+        '400':
+          description: Некорректный ввод.
+
+  /musicband/filter/numberOfParticipants/first:
+    delete:
+      summary: Удалить один объект с заданным значением numberOfParticipants.
+      parameters:
+        - name: value
+          in: query
+          required: true
+          schema:
+            type: integer
+      responses:
+        '204':
+          description: Объект удален.
+        '400':
+          description: Неверный ввод.
+        '404':
+          description: Объект не существует.
+
+  /musicband/count/numberOfParticipants:
+    get:
+      summary: Получить количество объектов с заданным значением numberOfParticipants.
+      parameters:
+        - name: value
+          in: query
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Успешно получено количество объектов.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  count:
+                    type: integer
+
+  /grammy/bands/get-by-genre/{genre}:
+    get:
+      summary: Получить список групп по жанру.
+      parameters:
+        - name: genre
+          in: path
+          required: true
+          schema:
+            $ref: '#/components/schemas/MusicGenre'
+      responses:
+        '200':
+          description: Успешно получен список групп.
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/MusicBand'
+
+  /grammy/band/{band-id}/nominate/{genre}:
+    post:
+      summary: Номинировать группу на премию.
+      parameters:
+        - name: band-id
+          in: path
+          required: true
+          schema:
+            type: integer
+        - name: genre
+          in: path
+          required: true
+          schema:
+            $ref: '#/components/schemas/MusicGenre'
+      responses:
+        '201':
+          description: Группа номинирована.
+        '400':
+          description: Неверный ввод.
+        '404':
+          description: Группа не найдена.
+
+
+components:
+  schemas:
+    MusicBand:
+      type: object
+      properties:
+        id:
+          type: integer
+          format: int64
+          readOnly: true
+        name:
+          type: string
+          minLength: 1
+        coordinates:
+          $ref: '#/components/schemas/Coordinates'
+        creationDate:
+          type: string
+          format: date
+          readOnly: true
+        numberOfParticipants:
+          type: integer
+          minimum: 1
+        genre:
+          $ref: '#/components/schemas/MusicGenre'
+        studio:
+          $ref: '#/components/schemas/Studio'
+
+    MusicBandWithoutID:
+      type: object
+      properties:
+        name:
+          type: string
+          minLength: 1
+        coordinates:
+          $ref: '#/components/schemas/Coordinates'
+        numberOfParticipants:
+          type: integer
+          minimum: 1
+        genre:
+          $ref: '#/components/schemas/MusicGenre'
+        studio:
+          $ref: '#/components/schemas/Studio'
+
+    Coordinates:
+      type: object
+      properties:
+        x:
+          type: number
+        y:
+          type: number
+          minimum: -298
+
+    MusicGenre:
+      type: string
+      enum: [HIP_HOP, BLUES, POST_ROCK]
+
+    Studio:
+      type: object
+      properties:
+        name:
+          type: string

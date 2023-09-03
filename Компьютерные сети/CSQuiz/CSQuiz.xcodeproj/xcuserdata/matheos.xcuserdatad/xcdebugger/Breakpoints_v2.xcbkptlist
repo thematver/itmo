@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4DF62DFA-3C22-4A3B-94E2-61776D3B5266"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "890E6324-4736-49B6-B5C5-D1053201B7A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "loadJson(filename:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B357C425-C65D-4929-AFC0-90BE098B8970"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "loadJson(filename:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10B03D4B-0C66-4FA0-BA22-5FAB9E123834"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "loadJson(filename:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7346D90A-8396-4F44-8E91-1694E35BB743"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "loadJson(filename:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FCEC7CB-F474-40BC-821C-30E399A18D83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "loadJson(filename:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37C728B8-F709-4491-AE9E-A9E8B218DA7F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "loadJson(filename:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7635390-C783-49F5-93C9-BC6912EF4323"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "loadJson(filename:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66C14576-2503-4ABE-BDB5-F94063FAE7B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "QuizManager"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E6CA333-6034-4EF7-9E42-929756F9A8F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1E6CA333-6034-4EF7-9E42-929756F9A8F0 - 47f85df3dda87d23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.scaledToFit() -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.List&lt;CSQuiz.Answer, SwiftUI.ForEach&lt;Swift.Array&lt;CSQuiz.Answer&gt;, Foundation.UUID, SwiftUI._ConditionalContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in CSQuiz.QuizView.body.getter : some"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1648">
+               </Location>
+               <Location
+                  uuid = "1E6CA333-6034-4EF7-9E42-929756F9A8F0 - 8a3e989ebdafe70d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CSQuiz.Answer) -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.Text, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.scaledToFit() -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.List&lt;CSQuiz.Answer, SwiftUI.ForEach&lt;Swift.Array&lt;CSQuiz.Answer&gt;, Foundation.UUID, SwiftUI._ConditionalContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in CSQuiz.QuizView.body.getter : some"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF70F8D0-4320-4581-8EF5-9068E54C20A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "select(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CE667FA-BC71-484C-8FB3-E479473BEC30"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "select(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C034ADA7-89D8-44BF-B8A7-F65EBEFE342B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "select(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32242C3F-981D-4293-AA10-C32FEC701475"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "select(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17210ACC-2321-4C9F-A9B4-97349AEDBB12"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "select(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6A246C4-C0E2-4952-861C-516A938ADDF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB0D2AC8-2290-4A8A-851C-140E67302669"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35D214AE-46C7-4C9B-8E26-65C7964FE8BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "select(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A4AE3CC-C81A-4974-9803-4F9830DCA5FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "next()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7A4AE3CC-C81A-4974-9803-4F9830DCA5FA - 7725aa234d2482ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "7A4AE3CC-C81A-4974-9803-4F9830DCA5FA - 7725aa234d2482ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "7A4AE3CC-C81A-4974-9803-4F9830DCA5FA - 7725aa234d24828c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "384">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5600972D-91CA-4953-BD36-2996E999BDA3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "next()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5600972D-91CA-4953-BD36-2996E999BDA3 - 7725aa234d24828c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "632">
+               </Location>
+               <Location
+                  uuid = "5600972D-91CA-4953-BD36-2996E999BDA3 - 7725aa234d24828c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "5600972D-91CA-4953-BD36-2996E999BDA3 - 7725aa234d2482eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2772C9BA-D320-4FDA-B770-EF24141A88D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "next()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2772C9BA-D320-4FDA-B770-EF24141A88D1 - 7725aa234d248246"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "808">
+               </Location>
+               <Location
+                  uuid = "2772C9BA-D320-4FDA-B770-EF24141A88D1 - 7725aa234d248246"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "780">
+               </Location>
+               <Location
+                  uuid = "2772C9BA-D320-4FDA-B770-EF24141A88D1 - 7725aa234d248da5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "780">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC00041C-8D22-42AF-A3E0-D596C41DE439"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "next()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EC00041C-8D22-42AF-A3E0-D596C41DE439 - 7725aa234d248de3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "1008">
+               </Location>
+               <Location
+                  uuid = "EC00041C-8D22-42AF-A3E0-D596C41DE439 - 7725aa234d248de3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "EC00041C-8D22-42AF-A3E0-D596C41DE439 - 7725aa234d248dc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "888">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF5670DB-3128-4D59-8629-83F8AD887AAC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "next()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF5670DB-3128-4D59-8629-83F8AD887AAC - 7725aa234d248267"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "780">
+               </Location>
+               <Location
+                  uuid = "EF5670DB-3128-4D59-8629-83F8AD887AAC - 7725aa234d248267"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "772">
+               </Location>
+               <Location
+                  uuid = "EF5670DB-3128-4D59-8629-83F8AD887AAC - 7725aa234d248246"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "772">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "764C40A1-E4E9-4DD8-A79B-930A890522A8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "next()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "764C40A1-E4E9-4DD8-A79B-930A890522A8 - 7725aa234d2482eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  uuid = "764C40A1-E4E9-4DD8-A79B-930A890522A8 - 7725aa234d2482eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "632">
+               </Location>
+               <Location
+                  uuid = "764C40A1-E4E9-4DD8-A79B-930A890522A8 - 7725aa234d2482ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2363028-370B-499F-A9B0-97552C4C015A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "next()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2363028-370B-499F-A9B0-97552C4C015A - 7725aa234d248d7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "1104">
+               </Location>
+               <Location
+                  uuid = "A2363028-370B-499F-A9B0-97552C4C015A - 7725aa234d248d7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "1096">
+               </Location>
+               <Location
+                  uuid = "A2363028-370B-499F-A9B0-97552C4C015A - 7725aa234d248d5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "1096">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F06059C4-CD10-4968-BE23-F37986ECF0D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "next()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F06059C4-CD10-4968-BE23-F37986ECF0D0 - 7725aa234d248d84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "F06059C4-CD10-4968-BE23-F37986ECF0D0 - 7725aa234d248d84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "856">
+               </Location>
+               <Location
+                  uuid = "F06059C4-CD10-4968-BE23-F37986ECF0D0 - 7725aa234d248de3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "856">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0C577DA-E772-447E-98C8-232E6ADA8E52"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "next()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E0C577DA-E772-447E-98C8-232E6ADA8E52 - 7725aa234d248d00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "1096">
+               </Location>
+               <Location
+                  uuid = "E0C577DA-E772-447E-98C8-232E6ADA8E52 - 7725aa234d248d00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "1048">
+               </Location>
+               <Location
+                  uuid = "E0C577DA-E772-447E-98C8-232E6ADA8E52 - 7725aa234d248d7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "1048">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB2CD5C5-EF72-4072-8C4C-1F2B34FA6554"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSQuiz/QuizManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "next()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB2CD5C5-EF72-4072-8C4C-1F2B34FA6554 - 7725aa234d248d21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "1048">
+               </Location>
+               <Location
+                  uuid = "BB2CD5C5-EF72-4072-8C4C-1F2B34FA6554 - 7725aa234d248d21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "1024">
+               </Location>
+               <Location
+                  uuid = "BB2CD5C5-EF72-4072-8C4C-1F2B34FA6554 - 7725aa234d248d00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSQuiz.QuizManager.next() -&gt; ()"
+                  moduleName = "CSQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matheos/Developer/Hands/backoffice/Packages/CSQuiz/CSQuiz/QuizManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "1024">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
