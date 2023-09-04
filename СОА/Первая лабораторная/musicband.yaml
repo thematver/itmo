@@ -28,6 +28,58 @@ paths:
                 $ref: '#/components/schemas/MusicBand'
         '400':
             $ref: '#/components/responses/BadRequest'
+    get:
+      summary: Получить список групп.
+      parameters:
+        - name: sortBy
+          in: query
+          required: false
+          description: Поле для сортировки
+          schema:
+            type: string
+        - name: order
+          in: query
+          required: false
+          description: Направление сортировки (asc или desc)
+          schema:
+            type: string
+            enum: [asc, desc]
+        - name: filterBy
+          in: query
+          required: false
+          description: Поле для фильтрации
+          schema:
+            type: string
+        - name: filterValue
+          in: query
+          required: false
+          description: Значение для фильтрации
+          schema:
+            type: string
+        - name: pageSize
+          in: query
+          required: false
+          description: Размер страницы для пагинации
+          schema:
+            type: integer
+        - name: pageNumber
+          in: query
+          required: false
+          description: Номер страницы для пагинации
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Успешное получение списка групп.
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/MusicBand'
+        '400':
+          $ref: '#/components/responses/BadRequest'
+
 
   /musicband/{id}:
     get:
@@ -87,11 +139,11 @@ paths:
         '404':
           $ref: '#/components/responses/NotFound'
 
-  /musicband/filter/numberOfParticipants:
+  /musicband/filter:
     delete:
       summary: Удалить все объекты с заданным значением numberOfParticipants.
       parameters:
-        - name: value
+        - name: numberOfParticipants
           in: query
           required: true
           schema:
@@ -102,11 +154,11 @@ paths:
         '400':
           $ref: '#/components/responses/BadRequest'
 
-  /musicband/filter/numberOfParticipants/first:
+  /musicband/filter/first:
     delete:
       summary: Удалить один объект с заданным значением numberOfParticipants.
       parameters:
-        - name: value
+        - name: numberOfParticipants
           in: query
           required: true
           schema:
@@ -119,11 +171,11 @@ paths:
         '404':
           $ref: '#/components/responses/NotFound'
 
-  /musicband/count/numberOfParticipants:
+  /musicband/count:
     get:
       summary: Получить количество объектов с заданным значением numberOfParticipants.
       parameters:
-        - name: value
+        - name: numberOfParticipants
           in: query
           required: true
           schema:
