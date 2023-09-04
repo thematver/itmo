@@ -27,7 +27,7 @@ paths:
               schema:
                 $ref: '#/components/schemas/MusicBand'
         '400':
-          description: Некорректный ввод.
+            $ref: '#/components/responses/BadRequest'
 
   /musicband/{id}:
     get:
@@ -46,7 +46,7 @@ paths:
               schema:
                 $ref: '#/components/schemas/MusicBand'
         '404':
-          description: Группа не найдена.
+          $ref: '#/components/responses/NotFound'
     put:
       summary: Обновить группу.
       parameters:
@@ -69,9 +69,9 @@ paths:
               schema:
                 $ref: '#/components/schemas/MusicBand'
         '400':
-          description: Некорректные данные.
+          $ref: '#/components/responses/BadRequest'
         '404':
-          description: Группа не найдена.
+          $ref: '#/components/responses/NotFound'
 
     delete:
       summary: Удалить группу по айди.
@@ -85,7 +85,7 @@ paths:
         '204':
           description: Группа успешно удалена.
         '404':
-          description: Группа не найдена.
+          $ref: '#/components/responses/NotFound'
 
   /musicband/filter/numberOfParticipants:
     delete:
@@ -100,7 +100,7 @@ paths:
         '204':
           description: Объекты удалены.
         '400':
-          description: Некорректный ввод.
+          $ref: '#/components/responses/BadRequest'
 
   /musicband/filter/numberOfParticipants/first:
     delete:
@@ -115,9 +115,9 @@ paths:
         '204':
           description: Объект удален.
         '400':
-          description: Неверный ввод.
+          $ref: '#/components/responses/BadRequest'
         '404':
-          description: Объект не существует.
+          $ref: '#/components/responses/NotFound'
 
   /musicband/count/numberOfParticipants:
     get:
@@ -176,9 +176,9 @@ paths:
         '201':
           description: Группа номинирована.
         '400':
-          description: Неверный ввод.
+          $ref: '#/components/responses/BadRequest'
         '404':
-          description: Группа не найдена.
+          $ref: '#/components/responses/NotFound'
 
 
 components:
@@ -241,3 +241,28 @@ components:
       properties:
         name:
           type: string
+          
+    ErrorResponse:
+      type: object
+      properties:
+        errorCode:
+          type: string
+        errorMessage:
+          type: string
+      required:
+        - errorCode
+        - errorMessage
+        
+  responses:
+    BadRequest:
+      description: Некорректный ввод
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ErrorResponse'
+    NotFound:
+      description: Объект не найден
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ErrorResponse'
